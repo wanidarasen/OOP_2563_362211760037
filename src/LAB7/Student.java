@@ -6,6 +6,9 @@ public class Student {
     int age;
     String major;
 
+    //constructor
+    // default constructor
+
     //behavior
     public void introduce(){
         System.out.println("My name is "+name);
