@@ -74,4 +74,9 @@ public class Person {
                 '}';
     }
 
+    public void intriduce(){
+        System.out.println("My name is +" +name);
+        System.out.println("I am "+age+"year old.");
+    }
+
 }
